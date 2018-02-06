@@ -23,3 +23,7 @@ Newmu's [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials).
 * TensorFlow 1.0 alpha
 * Numpy
 * matplotlib
+
+***Jude add comments and help doc to each jupyter notebook***
+* [Linear Regression](01_linear_regression.py)
+![Linear Regression](https://github.com/zhajio1988/TensorFlow-Tutorials/blob/master/images/plot.png)
