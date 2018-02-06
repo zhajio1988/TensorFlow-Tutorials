@@ -27,3 +27,5 @@ Newmu's [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials).
 ***Jude add comments and help doc to each jupyter notebook***
 * [Linear Regression](01_linear_regression.py)
 ![Linear Regression](https://github.com/zhajio1988/TensorFlow-Tutorials/blob/master/images/plot.png)
+* [Logistic Regression](02_logistic_regression.py)
+![Logistic Regression](https://github.com/zhajio1988/TensorFlow-Tutorials/blob/master/images/plot02.png)
