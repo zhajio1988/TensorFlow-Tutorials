@@ -29,3 +29,6 @@ Newmu's [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials).
 ![Linear Regression](https://github.com/zhajio1988/TensorFlow-Tutorials/blob/master/images/plot.png)
 * [Logistic Regression](02_logistic_regression.py)
 ![Logistic Regression](https://github.com/zhajio1988/TensorFlow-Tutorials/blob/master/images/plot02.png)
+
+***Reference***
+* [MNIST 机器学习入门（TensorFlow）](https://my.oschina.net/chkui/blog/888346)
